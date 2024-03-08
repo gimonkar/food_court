@@ -6,6 +6,7 @@ const Menu=[
         category:"dinner",
         price:"220rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi..",
+        link:"https://www.swiggy.com/search?query=Biryani",
     },
     {
         id:2,
@@ -14,6 +15,7 @@ const Menu=[
         category:"breakfast",
         price:"30rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=samosa",
         
     },
 
@@ -24,6 +26,7 @@ const Menu=[
         category:"sweet",
         price:"40rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.", 
+        link:"https://www.swiggy.com/search?query=gulab-jamun",
     }, 
     
     {
@@ -33,6 +36,7 @@ const Menu=[
         category:"lunch",
         price:"259rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=panir-achari",
     }, 
     {
         id:5,
@@ -41,6 +45,8 @@ const Menu=[
         category:"sweet",
         price:"120rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=chocolet-shake",
+        
     }, {
         id:6,
         image:"images/kachori.jpg",
@@ -48,6 +54,7 @@ const Menu=[
         category:"breakfast",
         price:"30rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=kachori",
     }, 
     {
         id:7,
@@ -56,6 +63,7 @@ const Menu=[
         category:"dinner",
         price:"90rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=rajma-chawal",
         
     },
     {
@@ -65,6 +73,7 @@ const Menu=[
         category:"breakfast",
         price:"30rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=maggi",
     }, 
     {
         id:9,
@@ -73,6 +82,7 @@ const Menu=[
         category:"lunch",
         price:"120rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=aalu-gobi",
     }, 
     {
         id:11,
@@ -81,6 +91,7 @@ const Menu=[
         category:"breakfast",
         price:"149rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=burgur",
     }, 
     {
         id:12,
@@ -89,6 +100,7 @@ const Menu=[
         category:"sweet",
         price:"160rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=kheer",
     }, 
     {
         id:13,
@@ -97,6 +109,7 @@ const Menu=[
         category:"dinner",
         price:"180rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=chana-masala",
         
     },  {
         id:14,
@@ -105,6 +118,7 @@ const Menu=[
         category:"lunch",
         price:"70rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=paratha",
         
     }, 
     {
@@ -114,6 +128,7 @@ const Menu=[
         category:"breakfast",
         price:"40rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=poha",
         
     },
     {
@@ -123,6 +138,7 @@ const Menu=[
         category:"breakfast",
         price:"30rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=maggi",
     }, 
     {
         id:17,
@@ -131,6 +147,7 @@ const Menu=[
         category:"sweet",
         price:"120rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=jalebi",
     }, 
     {
         id:17,
@@ -139,6 +156,7 @@ const Menu=[
         category:"breakfast",
         price:"149rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=dosa",
     }, 
     {
         id:19,
@@ -147,6 +165,7 @@ const Menu=[
         category:"breakfast",
         price:"120rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi. ",
+        link:"https://www.swiggy.com/search?query=sabudana-khichadi",
     }, 
     {
         id:20,
@@ -155,6 +174,7 @@ const Menu=[
         category:"breakfast",
         price:"130rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=dhokla",
         
     },  {
         id:21,
@@ -163,6 +183,7 @@ const Menu=[
         category:"evening",
         price:"90rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=sandwich",
         
     }, 
     {
@@ -172,6 +193,7 @@ const Menu=[
         category:"dinner",
         price:"90rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=paneer-butter-masala",
         
     },    {
         id:23,
@@ -180,6 +202,7 @@ const Menu=[
         category:"breakfast",
         price:"80rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=sandwich",
         
     },    {
         id:24,
@@ -188,6 +211,7 @@ const Menu=[
         category:"sweet",
         price:"100rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=peda",
         
     },    {
         id:25,
@@ -196,6 +220,7 @@ const Menu=[
         category:"sweet",
         price:"90rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=kalakand",
         
     },    {
         id:26,
@@ -204,6 +229,7 @@ const Menu=[
         category:"sweet",
         price:"90rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=mysore-pak",
         
     },    {
         id:27,
@@ -212,6 +238,7 @@ const Menu=[
         category:"dinner",
         price:"90rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=chana-masala",
         
     },    {
         id:28,
@@ -220,6 +247,7 @@ const Menu=[
         category:"dinner",
         price:"120rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=kadhi-chawal",
         
     },    {
         id:29,
@@ -228,6 +256,7 @@ const Menu=[
         category:"dinner",
         price:"230rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=dal-makhani",
         
     },    {
         id:30,
@@ -236,6 +265,7 @@ const Menu=[
         category:"dinner",
         price:"239rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=palak-paneer",
         
     },    {
         id:31,
@@ -244,6 +274,7 @@ const Menu=[
         category:"dinner",
         price:"110rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=veg-pulav",
         
     },    {
         id:32,
@@ -252,6 +283,7 @@ const Menu=[
         category:"lunch",
         price:"220rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=bhindi-masala",
         
     },    {
         id:33,
@@ -260,6 +292,7 @@ const Menu=[
         category:"lunch",
         price:"180rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=gujrati-kadhi",
         
     },    {
         id:34,
@@ -268,6 +301,7 @@ const Menu=[
         category:"lunch",
         price:"150rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=egg-curry",
         
     },    {
         id:35,
@@ -276,6 +310,7 @@ const Menu=[
         category:"dinner",
         price:"350rs",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptates quasi.",
+        link:"https://www.swiggy.com/search?query=chiken-curry",
         
     },   
 ]

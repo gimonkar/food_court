@@ -42,7 +42,7 @@ const Home = () => {
                             <p>{item.description}</p>
                             <div className="innergreed">
                                 <h3>price :{item.price}</h3>
-                                <a href="/">
+                                <a href={item.link}>
                                 <button type="button" class="btn btn-danger">Order Now</button>
                                 </a>
                             </div>
