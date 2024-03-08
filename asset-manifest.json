@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/food_court/static/css/main.0f254f40.css",
-    "main.js": "/food_court/static/js/main.1e7ed3e7.js",
+    "main.js": "/food_court/static/js/main.842248d3.js",
     "index.html": "/food_court/index.html",
     "main.0f254f40.css.map": "/food_court/static/css/main.0f254f40.css.map",
-    "main.1e7ed3e7.js.map": "/food_court/static/js/main.1e7ed3e7.js.map"
+    "main.842248d3.js.map": "/food_court/static/js/main.842248d3.js.map"
   },
   "entrypoints": [
     "static/css/main.0f254f40.css",
-    "static/js/main.1e7ed3e7.js"
+    "static/js/main.842248d3.js"
   ]
 }
